@@ -1,0 +1,7 @@
+C:\FACULTATE\OOP\bin\Debug\OOP.exe.config
+C:\FACULTATE\OOP\bin\Debug\OOP.exe
+C:\FACULTATE\OOP\bin\Debug\OOP.pdb
+C:\FACULTATE\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\FACULTATE\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\FACULTATE\OOP\obj\Debug\OOP.exe
+C:\FACULTATE\OOP\obj\Debug\OOP.pdb
