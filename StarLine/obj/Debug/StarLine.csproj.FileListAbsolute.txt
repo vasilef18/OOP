@@ -1,0 +1,7 @@
+C:\FACULTATE\OOP\StarLine\bin\Debug\StarLine.exe.config
+C:\FACULTATE\OOP\StarLine\bin\Debug\StarLine.exe
+C:\FACULTATE\OOP\StarLine\bin\Debug\StarLine.pdb
+C:\FACULTATE\OOP\StarLine\obj\Debug\StarLine.csprojAssemblyReference.cache
+C:\FACULTATE\OOP\StarLine\obj\Debug\StarLine.csproj.CoreCompileInputs.cache
+C:\FACULTATE\OOP\StarLine\obj\Debug\StarLine.exe
+C:\FACULTATE\OOP\StarLine\obj\Debug\StarLine.pdb
