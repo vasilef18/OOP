@@ -1,7 +1,0 @@
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\bin\Debug\Lab01.03.exe.config
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\bin\Debug\Lab01.03.exe
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\bin\Debug\Lab01.03.pdb
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\obj\Debug\Lab01.03.csprojAssemblyReference.cache
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\obj\Debug\Lab01.03.csproj.CoreCompileInputs.cache
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\obj\Debug\Lab01.03.exe
-C:\FACULTATE\OOP\LABORATOR\Lab01.03\obj\Debug\Lab01.03.pdb
