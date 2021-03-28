@@ -1,0 +1,7 @@
+C:\FACULTATE\OOP\ClassTime\bin\Debug\ClassTime.exe.config
+C:\FACULTATE\OOP\ClassTime\bin\Debug\ClassTime.exe
+C:\FACULTATE\OOP\ClassTime\bin\Debug\ClassTime.pdb
+C:\FACULTATE\OOP\ClassTime\obj\Debug\ClassTime.csprojAssemblyReference.cache
+C:\FACULTATE\OOP\ClassTime\obj\Debug\ClassTime.csproj.CoreCompileInputs.cache
+C:\FACULTATE\OOP\ClassTime\obj\Debug\ClassTime.exe
+C:\FACULTATE\OOP\ClassTime\obj\Debug\ClassTime.pdb
